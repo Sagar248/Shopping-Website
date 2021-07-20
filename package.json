@@ -1,0 +1,30 @@
+{
+  "name": "shopping-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.7.4",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.2.0",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^5.3.0",
+    "fs-extra": "^7.0.1",
+    "js": "^0.1.0",
+    "mkdirp": "^0.5.5",
+    "mongoose": "^5.11.8",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "resize-img": "^1.1.2"
+  }
+}
