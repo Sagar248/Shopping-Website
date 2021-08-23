@@ -1,8 +1,6 @@
 # Shopping-Website-Model
 Clone this repository
 
-git clone https://github.com/rajhimanshumax/Shopping-Website-Model.git
-
 Install dependencies
 
 npm install
